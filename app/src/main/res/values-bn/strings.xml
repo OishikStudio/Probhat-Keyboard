@@ -6,9 +6,10 @@
 -->
 
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-    <string name="spell_checker_service_name">ওপেনবোর্ড বানান পরীক্ষক</string>
-    <string name="ime_settings">ওপেনবোর্ড সেটিংস</string>
-    <string name="android_spell_checker_settings">ওপেনবোর্ড বানান পরীক্ষক সেটিংস</string>
+    <string name="english_ime_name">প্রভাত কিবোর্ড</string>
+    <string name="spell_checker_service_name">প্রভাত কিবোর্ড বানান পরীক্ষক</string>
+    <string name="ime_settings">প্রভাত কিবোর্ড সেটিংস</string>
+    <string name="android_spell_checker_settings">প্রভাত কিবোর্ড বানান পরীক্ষক সেটিংস</string>
     <string name="use_contacts_for_spellchecking_option_title">পরিচিতি তালিকায় নাম খুঁজুন</string>
     <string name="use_contacts_for_spellchecking_option_summary">বানান পরীক্ষক আপনার পরিচিতি তালিকা থেকে তথ্য ব্যবহার করবে</string>
     <string name="vibrate_on_keypress">কিপ্রেস কম্পন</string>
@@ -233,7 +234,7 @@
     <string name="version">সংস্করণ</string>
     <string name="about_github_link">গিটহাবে দেখুন</string>
     <string name="license">ওপেন-সোর্স লাইসেন্স</string>
-    <string name="gnu_gpl">জিএনইউ জেনারেল পাবলিক লাইসেন্স তৃতীয় সংস্করণ</string>
+    <string name="apache">অ্যাপাচি লাইসেন্স ২.০</string>
     <string name="prefs_narrow_key_gaps">বোতামের বিভাজন সংকীর্ণকরণ</string>
     <string name="dialog_close">বন্ধ করুন</string>
     <string name="use_system_language_to_select_input_method_subtypes">"সিস্টেমের ভাষা ব্যবহার"</string>
