@@ -220,7 +220,7 @@
             android:imeSubtypeLocale="bn_BD"
             android:languageTag="bn-BD"
             android:imeSubtypeMode="keyboard"
-            android:imeSubtypeExtraValue="KeyboardLayoutSet=bengali_unijoy,EmojiCapable"
+            android:imeSubtypeExtraValue="KeyboardLayoutSet=bengali_probhat,EmojiCapable"
             android:isAsciiCapable="false"
     />
     <subtype android:icon="@drawable/ic_ime_switcher"
