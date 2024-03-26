@@ -245,7 +245,7 @@
     <string name="version">সংস্করণ</string>
     <string name="about_github_link">গিটহাবে দেখুন</string>
     <string name="license">ওপেন-সোর্স লাইসেন্স</string>
-    <string name="gnu_gpl">জিএনইউ জেনারেল পাবলিক লাইসেন্স তৃতীয় সংস্করণ</string>
+    <string name="apache">অ্যাপাচি লাইসেন্স ২.০</string>
     <string name="prefs_narrow_key_gaps">বোতামের বিভাজন সংকীর্ণকরণ</string>
     <string name="dialog_close">বন্ধ করুন</string>
     <string name="use_system_language_to_select_input_method_subtypes">"সিস্টেমের ভাষা ব্যবহার"</string>
