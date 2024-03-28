@@ -1,11 +1,11 @@
 // SPDX-License-Identifier: GPL-3.0-only
 
-package helium314.keyboard.latin.common
+package probhat.keyboard.latin.common
 
-import helium314.keyboard.keyboard.internal.keyboard_parser.floris.KeyCode
-import helium314.keyboard.latin.common.StringUtils.mightBeEmoji
-import helium314.keyboard.latin.common.StringUtils.newSingleCodePointString
-import helium314.keyboard.latin.settings.SpacingAndPunctuations
+import probhat.keyboard.keyboard.internal.keyboard_parser.floris.KeyCode
+import probhat.keyboard.latin.common.StringUtils.mightBeEmoji
+import probhat.keyboard.latin.common.StringUtils.newSingleCodePointString
+import probhat.keyboard.latin.settings.SpacingAndPunctuations
 
 fun loopOverCodePoints(s: CharSequence, run: (Int) -> Boolean) {
     val text = if (s is String) s else s.toString()

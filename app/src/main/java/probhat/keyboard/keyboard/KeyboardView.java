@@ -4,9 +4,9 @@
  * SPDX-License-Identifier: Apache-2.0 AND GPL-3.0-only
  */
 
-package helium314.keyboard.keyboard;
+package probhat.keyboard.keyboard;
 
-import static helium314.keyboard.keyboard.KeyboardTheme.STYLE_ROUNDED;
+import static probhat.keyboard.keyboard.KeyboardTheme.STYLE_ROUNDED;
 
 import android.content.Context;
 import android.content.res.TypedArray;
@@ -27,19 +27,19 @@ import android.view.View;
 import androidx.annotation.NonNull;
 import androidx.annotation.Nullable;
 
-import helium314.keyboard.keyboard.emoji.EmojiPageKeyboardView;
-import helium314.keyboard.keyboard.internal.KeyDrawParams;
-import helium314.keyboard.keyboard.internal.KeyVisualAttributes;
-import helium314.keyboard.keyboard.internal.keyboard_parser.floris.KeyCode;
-import helium314.keyboard.latin.R;
-import helium314.keyboard.latin.common.ColorType;
-import helium314.keyboard.latin.common.Colors;
-import helium314.keyboard.latin.common.Constants;
-import helium314.keyboard.latin.common.StringUtils;
-import helium314.keyboard.latin.settings.Settings;
-import helium314.keyboard.latin.suggestions.MoreSuggestions;
-import helium314.keyboard.latin.suggestions.PopupSuggestionsView;
-import helium314.keyboard.latin.utils.TypefaceUtils;
+import probhat.keyboard.keyboard.emoji.EmojiPageKeyboardView;
+import probhat.keyboard.keyboard.internal.KeyDrawParams;
+import probhat.keyboard.keyboard.internal.KeyVisualAttributes;
+import probhat.keyboard.keyboard.internal.keyboard_parser.floris.KeyCode;
+import probhat.keyboard.latin.R;
+import probhat.keyboard.latin.common.ColorType;
+import probhat.keyboard.latin.common.Colors;
+import probhat.keyboard.latin.common.Constants;
+import probhat.keyboard.latin.common.StringUtils;
+import probhat.keyboard.latin.settings.Settings;
+import probhat.keyboard.latin.suggestions.MoreSuggestions;
+import probhat.keyboard.latin.suggestions.PopupSuggestionsView;
+import probhat.keyboard.latin.utils.TypefaceUtils;
 
 import java.util.HashSet;
 

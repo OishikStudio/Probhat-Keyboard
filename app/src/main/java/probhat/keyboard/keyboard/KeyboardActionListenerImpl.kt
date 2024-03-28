@@ -1,12 +1,12 @@
-package helium314.keyboard.keyboard
+package probhat.keyboard.keyboard
 
-import helium314.keyboard.keyboard.internal.keyboard_parser.floris.KeyCode
-import helium314.keyboard.latin.LatinIME
-import helium314.keyboard.latin.RichInputMethodManager
-import helium314.keyboard.latin.common.Constants
-import helium314.keyboard.latin.common.InputPointers
-import helium314.keyboard.latin.inputlogic.InputLogic
-import helium314.keyboard.latin.settings.Settings
+import probhat.keyboard.keyboard.internal.keyboard_parser.floris.KeyCode
+import probhat.keyboard.latin.LatinIME
+import probhat.keyboard.latin.RichInputMethodManager
+import probhat.keyboard.latin.common.Constants
+import probhat.keyboard.latin.common.InputPointers
+import probhat.keyboard.latin.inputlogic.InputLogic
+import probhat.keyboard.latin.settings.Settings
 import kotlin.math.abs
 
 class KeyboardActionListenerImpl(private val latinIME: LatinIME, private val inputLogic: InputLogic) : KeyboardActionListener {
