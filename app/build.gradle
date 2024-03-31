@@ -10,7 +10,7 @@ android {
         applicationId "probhat.keyboard"
         minSdkVersion 21
         targetSdkVersion 34
-        versionCode 1000
+        versionCode 1001
         versionName '1.0'
         ndk {
             abiFilters 'armeabi-v7a', 'arm64-v8a', 'x86', 'x86_64'
